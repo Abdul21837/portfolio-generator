@@ -1,43 +1,43 @@
 module.exports = {
-  name: 'Lernantino',
-  github: 'lernantino',
+  name: 'Abdul21837',
+  github: 'Abdul21837',
   confirmAbout: true,
   about:
-    'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque. Nulla eget fringilla nulla. Integer gravida magna mi, id efficitur metus tempus et. Nam fringilla elit dapibus pellentesque cursus. Proin pretium, velit eget ultricies pulvinar, sem ex eleifend elit, nec pretium ante magna ac nibh. Nulla pulvinar turpis non magna porttitor porttitor. Morbi pellentesque sed nibh eu gravida. Fusce rhoncus, turpis non ullamcorper tristique, enim nulla vehicula ligula, nec gravida augue elit nec mauris. Donec imperdiet justo et auctor vehicula. Ut eget dapibus metus. Nulla facilisi. Integer in porttitor eros.',
+    'My name is Abdul Kamara, I am an Accountant but I fell in love with coding and programming, I attended the best school from the East Holy Trinity Secondary School, Kenema. I did both my Junior and Senior schooling at HTSSK. I sat my WASSCE and I got my requirement which I later pursed my education at the Institute Of Public Administration And Management, which is common known as (IPAM). I am doing B SC. IN APPLIED ACCOUNTING, which I did my best and later became a HONOURS student.',
   projects: [
     {
-      name: 'Run Buddy',
+      name: 'Run_Buddy',
       description:
-        'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque. Nulla eget fringilla nulla. Integer gravida magna mi, id efficitur metus tempus et. Nam fringilla elit dapibus pellentesque cursus.',
+        'Run Buddy, a company that matches runners with personal trainers.RunBuddy is a personal running coach in your pocket. Their platform helps any runner to achieve their goals, Whatever your goals, they'll give you the guidance, structure and challenge you need to get there. The run buddy is a fantastic app, Fatu is an amazing coach and I couldn't recommend it highly enough for anyone interested in running!',
       languages: ['HTML', 'CSS'],
-      link: 'https://github.com/lernantino/run-buddy',
+      link: 'https://github.com/Abdul21837/run_buddy',
       feature: true,
       confirmAddProject: true
     },
     {
       name: 'Taskinator',
       description:
-        'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque. Nulla eget fringilla nulla. Integer gravida magna mi, id efficitur metus tempus et. Nam fringilla elit dapibus pellentesque cursus.',
+        'Taskinator is an App which is embeded with three languages: HTML, CSS, and JavaScript front-end development. And you'll add new skills such as manipulating webpage behavior using Web APIs and the DOM. you'll be able to create tasks by entering a task name, selecting a type, and clicking an "Add Task" button. Then you'll be able to organize them into Tasks To Do, Tasks In Progress, and Tasks Completed lists by using the dropdown to change the task status.',
       languages: ['JavaScript', 'HTML', 'CSS'],
-      link: 'https://github.com/lernantino/taskinator',
+      link: 'https://github.com/Abdul21837/taskinator',
       feature: true,
       confirmAddProject: true
     },
     {
       name: 'Taskmaster Pro',
       description:
-        'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque. Nulla eget fringilla nulla. Integer gravida magna mi, id efficitur metus tempus et. Nam fringilla elit dapibus pellentesque cursus.',
+        'The Taskmaster app, however, incorporates third-party libraries like jQuery and Bootstrap. These libraries don't replace regular JavaScript and CSS; instead, they add new methods and classes that expedite development.',
       languages: ['JavaScript', 'jQuery', 'CSS', 'HTML', 'Bootstrap'],
-      link: 'https://github.com/lernantino/taskmaster-pro',
+      link: 'https://github.com/Abdul21837/taskmaster-pro',
       feature: false,
       confirmAddProject: true
     },
     {
       name: 'Robot Gladiators',
       description:
-        'Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque.',
+        'Robot Gladiators is a game which players will coach their robot through a series of fights—gaining cash, attack power, and repairs along the way. The robot that survives with the most cash will be remembered in the browser's storage system!',
       languages: ['JavaScript'],
-      link: 'https://github.com/lernantino/robot-gladiators',
+      link: 'https://github.com/Abdul21837/robot-gladiators',
       feature: false,
       confirmAddProject: false
     }
